@@ -8,4 +8,5 @@ RC-based implementations for time series processing tasks in slow electronics.
 | Pig Blood Pressure  | Anomaly detection | URL | ESN, Mahalanobis-distance-based RC | [Tamura et al., TechRxiv](https://www.techrxiv.org/articles/preprint/Mahalanobis_Distance_of_Reservoir_States_for_Online_Time-Series_Anomaly_Detection/22678774) | 
 | EEG ? | --- | --- | ESN | --- |
 | ECG ? | --- | --- | ESN | --- |
-| Blood Glucose? | --- | --- | ESN | --- |
+| Blood Glucose ? | --- | --- | ESN | --- |
+| Walking ? | --- | --- | ESN | --- |
