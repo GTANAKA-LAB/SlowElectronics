@@ -1,4 +1,4 @@
-# SlowElectronics demo for CREST members
+# SlowElectronics demo (shared with CREST members)
 
 RC-based implementations for time series processing tasks in slow electronics.
 
