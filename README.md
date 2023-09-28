@@ -9,4 +9,5 @@ RC-based implementations for time series processing tasks in slow electronics.
 | Blood Glucose ? | ? | --- | --- | ESN | Yajima-sensei? |
 | EEG ? | 0.01 - 1 sec | --- | --- | ESN | --- |
 | ECG ? | 0.01 - 1 sec | --- | --- | ESN | --- |
+| Handwriting |  ? | ? | --- | --- | ESN | --- |
 | Walking ? | ? | --- | --- | ESN | --- |
