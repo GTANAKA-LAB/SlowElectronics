@@ -2,7 +2,7 @@
 
 RC-based implementations for time series processing tasks in slow electronics.
 
-| Data | Task | Github repository | Model/Algorithm | Reference | 
+| Data | Task | Github repository | Model(Algorithm) | Reference | 
 | ------------- | ------------- | ------------- | ------------ | ----------- |
 | Handwriting Triangles (2 persons) <br>**Multi-person data?**| Anomaly detection (for Authentication) | --- | ESN(LR) <br>LSTM(BPTT) <br>**SNN-RC(FORCE)?** | [Inoue et al., IEEE Symposium on VLSI Technology and Circuits, 2023](https://ieeexplore.ieee.org/document/10185412) |
 | [Human Blood Pressure](https://www.nature.com/articles/s41597-022-01202-y) | Classification (for Identity Recognition) | [Repository](https://github.com/Ziqiang-IRCN/ESN-Continuous-blood-pressure-data.git) | ESN(LR) <br>Bidirectional-ESN(LR) | [Li et al., ICANN, 2023](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_2) | 
