@@ -11,4 +11,3 @@ RC-based implementations for time series processing tasks in slow electronics.
 | Characteristic Trajectory,... | Classification | Repository/URL (Tamura-san?) | (1)ESN(LR) <br>(2)ESN(SVM) <br>(3)MDRS(P-matrix update) | --- | 
 | Blood Glucose ? | Prediction | Repository/URL (Yajima-san?) | (1)ESN(FORCE)? | --- |
 
-Tested by Li
