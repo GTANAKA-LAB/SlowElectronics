@@ -9,5 +9,5 @@ RC-based implementations for time series processing tasks in slow electronics.
 | [Pig Internal Bleeding](https://wu.renjie.im/research/anomaly-benchmarks-are-flawed/)  | Anomaly detection | **URL?** | (1)ESN(LR) <br>(2)MDRS(P-matrix update) | [Tamura et al., TechRxiv](https://www.techrxiv.org/articles/preprint/Mahalanobis_Distance_of_Reservoir_States_for_Online_Time-Series_Anomaly_Detection/22678774) | 
 | Characteristic Trajectory,... | Classification | **URL?** | (1)ESN(LR) <br>(2)ESN(SVM) <br>(3)MDRS(P-matrix update) | **Tamura-san?** | 
 | Blood Glucose ? | --- | --- | **(1)ESN?** | **Yajima-sensei?** |
-| Other biological data ? | --- | --- | ESN | --- |
+| Other biological data ? | --- | --- | --- | --- |
 
