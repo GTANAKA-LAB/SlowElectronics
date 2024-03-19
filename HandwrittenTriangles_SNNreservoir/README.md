@@ -1,1 +1,1 @@
-Handwritten Triangle anomaly detection for authentication using a SNN reservoir.
+Handwritten Triangle anomaly detection for authentication using an SNN reservoir.
