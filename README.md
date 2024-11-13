@@ -12,7 +12,7 @@ RC-based implementations for time series processing tasks in slow electronics.
 | Blood Glucose ? | Prediction | Repository/URL (Yajima-san?) | (1)ESN(FORCE)? | --- |
 
 
-[^1] ESN: Echo State Network (Jaeger, 2001) [paper pdf](https://www.ai.rug.nl/minds/uploads/EchoStatesTechRep.pdf)  
-[^2] FORCE: FORCE learning ([Sussillo and Abbott, 2009](https://www.sciencedirect.com/science/article/pii/S0896627309005479?via%3Dihub))    
-[^3] LR: Linear Regression  
-[^4] BPTT: Backpropagation Through Time ([Werbos et al., 1990](https://ieeexplore.ieee.org/document/58337))  
+[^1]: Echo State Network (Jaeger, 2001) [paper pdf](https://www.ai.rug.nl/minds/uploads/EchoStatesTechRep.pdf)  
+[^2]: FORCE learning ([Sussillo and Abbott, 2009](https://www.sciencedirect.com/science/article/pii/S0896627309005479?via%3Dihub))    
+[^3]: Linear Regression  
+[^4]: Backpropagation Through Time ([Werbos et al., 1990](https://ieeexplore.ieee.org/document/58337))  
