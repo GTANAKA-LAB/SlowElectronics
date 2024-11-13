@@ -1,7 +1,7 @@
 # SlowElectronics samples
 
 ## RC-based implementations for time series processing tasks in slow electronics.
-## This concept was proposed in the JST CREST Project (Platform for real-time learning at the edge with spiking neural networks, 2019-2024) lead by Dr. Isao H. Inoue at AIST.
+#### This concept was proposed in the JST CREST Project (Platform for real-time learning at the edge with spiking neural networks, 2019-2024) lead by Dr. Isao H. Inoue at AIST.
 
 | Data | Task | Repository/URL | Model(Algorithm) | Reference | 
 | ------------- | ------------- | ------------- | ------------ | ----------- |
