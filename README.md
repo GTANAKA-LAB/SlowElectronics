@@ -1,6 +1,11 @@
 # SlowElectronics samples
 
-## RC-based implementations for time series processing tasks in slow electronics.
+## Concept
+SlowElectronics indicate electronic technology suited for efficiently processing slowly varying signals (i.e. signals with relatively large time constants).  
+Such signals are typically found in biological phenomena and human activities.  
+Current electronics seeking speedy signal processing often encounter a difficutly in energy and computational efficiency when handling such data.
+We are going to develop SlowElectronics for extremely efficient AI hardware devices by
+RC-based implementations for time series processing tasks in slow electronics.
 #### This concept was proposed in the JST CREST Project (Platform for real-time learning at the edge with spiking neural networks, 2019-2024) lead by Dr. Isao H. Inoue at AIST.
 
 | Data | Task | Repository/URL | Model(Algorithm) | Reference | 
