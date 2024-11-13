@@ -5,7 +5,7 @@ SlowElectronics indicate electronic technology suited for efficiently processing
 
 
 ## This site
-Reservoir computing is one of the machine learning frameworks promising for our purpose. We have demonstrated that reservoir computing systems can well handle slowly varying time series data in machine learning tasks. We share the program codes of the software implementation below. 
+Reservoir computing is one of the machine learning frameworks promising for our purpose. We have demonstrated that reservoir computing systems are suited for dealing with slowly varying time series data in individual studies. This site collects the information on the program codes developed in these studies. 
 
 
 | Data | Task | Repository/URL | Model(Algorithm) | Reference | 
