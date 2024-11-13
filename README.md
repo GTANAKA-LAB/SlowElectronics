@@ -1,12 +1,12 @@
-# SlowElectronics samples
+# SlowElectronics
 
 ## Concept
-SlowElectronics indicate electronic technology suited for efficiently processing slowly varying signals (i.e. signals with relatively large time constants).  
-Such signals are typically found in biological phenomena and human activities.  
-Current electronics seeking speedy signal processing often encounter a difficutly in energy and computational efficiency when handling such data.
-We are going to develop SlowElectronics for extremely efficient AI hardware devices by
-RC-based implementations for time series processing tasks in slow electronics.
-#### This concept was proposed in the JST CREST Project (Platform for real-time learning at the edge with spiking neural networks, 2019-2024) lead by Dr. Isao H. Inoue at AIST.
+SlowElectronics indicate electronic technology suited for efficiently processing slowly varying signals (i.e. signals with relatively large time constants). Such signals are typically found in biological phenomena and human activities. Current electronics seeking speedy signal processing often encounter undesirable situation in efficiently handling slowly varying signals. We are going to develop SlowElectronics towards realization of extremely efficient neuromorphic hardware devices by integrating methodologies in material science, electrical engineering, information science, and neuroscience. This concept was proposed in the JST CREST Project (Platform for real-time learning at the edge with spiking neural networks, 2019-2024) lead by Dr. Isao H. Inoue at AIST.
+
+
+## This site
+Reservoir computing is one of the machine learning frameworks promising for our purpose. We have demonstrated that reservoir computing systems can well handle slowly varying time series data in machine learning tasks. We share the program codes of the software implementation below. 
+
 
 | Data | Task | Repository/URL | Model(Algorithm) | Reference | 
 | ------------- | ------------- | ------------- | ------------ | ----------- |
