@@ -6,7 +6,7 @@ SlowElectronics indicate electronic technology suited for efficiently processing
 ## Slow signals
 
 ## Reservoir computing for SlowElectronics
-Reservoir computing is one of the machine learning frameworks promising for our purpose. We have demonstrated that reservoir computing systems are suited for dealing with slowly varying time series data in individual studies. This site collects the information on the program codes developed in these studies. 
+Reservoir computing is one of the machine learning frameworks promising for SlowElectronics. We have demonstrated that reservoir computing systems are suited for dealing with slowly varying time series data in individual studies. This site collects the information on the program codes developed in these studies. 
 
 
 | Data | Task | Repository/URL | Model(Algorithm) | Reference | 
