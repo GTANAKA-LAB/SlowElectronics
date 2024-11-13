@@ -11,7 +11,7 @@ RC-based implementations for time series processing tasks in slow electronics.
 | Characteristic Trajectory,... | Classification | Repository/URL (Tamura-san?) | (1)ESN(LR) <br>(2)ESN(SVM) <br>(3)MDRS(P-matrix update) | --- | 
 | Blood Glucose ? | Prediction | Repository/URL (Yajima-san?) | (1)ESN(FORCE)? | --- |
 
-** ESN: Echo State Network (Jaeger, 2001) [paper pdf](https://www.ai.rug.nl/minds/uploads/EchoStatesTechRep.pdf)
-** FORCE: FORCE learning ([Sussillo and Abbott, 2009](https://www.sciencedirect.com/science/article/pii/S0896627309005479?via%3Dihub))  
-** LR: Linear Regression
-** BPTT: Backpropagation Through Time ([Werbos et al., 1990](https://ieeexplore.ieee.org/document/58337))
+## ESN: Echo State Network (Jaeger, 2001) [paper pdf](https://www.ai.rug.nl/minds/uploads/EchoStatesTechRep.pdf)
+## FORCE: FORCE learning ([Sussillo and Abbott, 2009](https://www.sciencedirect.com/science/article/pii/S0896627309005479?via%3Dihub))  
+## LR: Linear Regression
+## BPTT: Backpropagation Through Time ([Werbos et al., 1990](https://ieeexplore.ieee.org/document/58337))
