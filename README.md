@@ -9,7 +9,7 @@ RC-based implementations for time series processing tasks in slow electronics.
 | [Human Blood Pressure](https://www.nature.com/articles/s41597-022-01202-y) | Classification <br>(for Authentication) | [Repository](https://github.com/Ziqiang-IRCN/ESN-Continuous-blood-pressure-data.git)| (1) ESN[^1] (LR[^2]) <br>(2) Bidirectional-ESN(LR) | [Li et al., ICANN, 2023](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_2) | 
 | [UCR Anomaly Archive](https://wu.renjie.im/research/anomaly-benchmarks-are-flawed/) <br>(A collection of 250 univariate time series collected in human medicine, biology, meteorology and industry) | Anomaly detection | [Repository](https://github.com/hiroto0324/MD-RS) | (1) ESN[^1] (LR[^2]) <br>(2) MDRS[^5] (RLS)[^3] | [Tamura et al., TechRxiv, 2023](https://www.techrxiv.org/articles/preprint/Mahalanobis_Distance_of_Reservoir_States_for_Online_Time-Series_Anomaly_Detection/22678774) | 
 | Characteristic Trajectory,... | Classification | Repository/URL (Tamura-san?) | (1)ESN(LR) <br>(2)ESN(SVM) <br>(3)MDRS(RLS) | --- | 
-| Blood Glucose | Prediction | Repository/URL (Yajima-san?) | (1)ESN(FORCE)? | [Pati et al., Commun. Mater. 2024](https://www.nature.com/articles/s43246-024-00621-1) |
+| Human Blood Glucose | Prediction | Repository/URL (Yajima-san?) | (1)ESN(FORCE)? | [Pati et al., Commun. Mater. 2024](https://www.nature.com/articles/s43246-024-00621-1) |
 
 
 [^1]: Echo State Network (Jaeger, 2001) [paper pdf](https://www.ai.rug.nl/minds/uploads/EchoStatesTechRep.pdf)
