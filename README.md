@@ -1,4 +1,4 @@
-# SlowElectronics samples (currently shared only with CREST members)
+# SlowElectronics samples
 
 RC-based implementations for time series processing tasks in slow electronics.
 
