@@ -4,8 +4,7 @@
 SlowElectronics indicate electronic technology suited for efficiently processing slowly varying signals (i.e. signals with relatively large time constants). Such signals are typically found in biological phenomena and human activities. Current electronics seeking highly speedy signal processing often encounter a difficulty in efficiently handling slowly varying signals. We are going to develop SlowElectronics towards realization of extremely efficient neuromorphic hardware devices by integrating methodologies in material science, electrical engineering, information science, and neuroscience. This concept was proposed in the JST CREST Project ([Platform for real-time learning at the edge with spiking neural networks](https://sites.google.com/view/crest-snn/), 2019-2024, Grant No. JPMJCR19K2) directed by [Dr. Isao H. Inoue at AIST](https://sites.google.com/view/isao/).
 
 ## Slow signals
-
-![timescale](https://github.com/user-attachments/assets/4f1e529b-cdf1-422d-bb23-e40b53a93a5f?raw=true)
+![timescale](https://github.com/user-attachments/assets/b8ac630d-3770-465b-898c-c297a10c5ff4)
 
 ## Reservoir computing for SlowElectronics
 Reservoir computing is one of the machine learning frameworks promising for SlowElectronics. We have demonstrated that reservoir computing systems are suited for dealing with slowly varying time series data in individual studies. This site collects the information on the program codes developed in these studies. 
