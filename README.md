@@ -6,7 +6,7 @@ SlowElectronics indicate electronic technology suited for efficiently processing
 ## Slow signals
 Examples of target signals of SlowElectronics are shown below.
 <br>
-![timescale](https://github.com/user-attachments/assets/b8ac630d-3770-465b-898c-c297a10c5ff4)
+![image](https://github.com/user-attachments/assets/fde2baa5-b891-41e8-bd9b-af8ee8679f54)
 
 ## Reservoir computing for SlowElectronics
 Reservoir computing is one of the machine learning frameworks promising for SlowElectronics. We have demonstrated that reservoir computing systems are suited for dealing with slowly varying time series data in individual studies. This site collects the information on the program codes developed in these studies. 
