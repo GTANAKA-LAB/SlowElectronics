@@ -5,6 +5,7 @@ SlowElectronics indicate electronic technology suited for efficiently processing
 
 ## Slow signals
 Examples of slow signals are shown in the figure below.
+<br>
 ![timescale](https://github.com/user-attachments/assets/b8ac630d-3770-465b-898c-c297a10c5ff4)
 
 ## Reservoir computing for SlowElectronics
